@@ -132,10 +132,5 @@ if __name__ == '__main__':
             
             
             
-<<<<<<< HEAD
-# Credits for the game: Akshar Singh            
-            
-=======
             
             
->>>>>>> fed12be... Added game files
